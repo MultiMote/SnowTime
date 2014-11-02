@@ -1,0 +1,16 @@
+[
+{
+  "modid": "snowtime",
+  "name": "Snow Time",
+  "description": "Happy New Year!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["MultiMote"],
+  "credits": "",
+  "logoFile": "assets/snowtime/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
